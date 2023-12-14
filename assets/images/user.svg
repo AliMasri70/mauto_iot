@@ -1,0 +1,15 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Avatar / User-50">
+<g clip-path="url(#clip0_0_280)">
+<rect width="50" height="50" rx="25" fill="white"/>
+<rect id="Rectangle" x="15" y="8" width="20" height="20" rx="10" fill="#ABABAB"/>
+<rect id="Rectangle_2" x="-12.5" y="33" width="75" height="75" rx="37.5" fill="#ABABAB"/>
+</g>
+<rect x="0.5" y="0.5" width="49" height="49" rx="24.5" stroke="#B8B8B8"/>
+</g>
+<defs>
+<clipPath id="clip0_0_280">
+<rect width="50" height="50" rx="25" fill="white"/>
+</clipPath>
+</defs>
+</svg>
